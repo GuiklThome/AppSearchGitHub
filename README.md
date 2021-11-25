@@ -1,5 +1,7 @@
 # AppSearchGitHub
 
+<img align="left" width="100" height="50" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
 Para instalar as dependências do projeto digite -> yarn
 
 Para executar o projeto após a instalação das dependências -> yarn start 
